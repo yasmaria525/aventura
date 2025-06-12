@@ -1,0 +1,15 @@
+body{
+    background-color: aquamarine;
+    color:aliceblue;
+    font-family: "bai jamjuree", sans-serif;
+    display: flex;
+    justify-items: center;
+    height: 700px;
+    margin: 0;
+}
+
+button {
+    background-color: blueviolet;
+    color:aliceblue;
+    font-family: "bai jamjuree", sans-serif;
+}
