@@ -13,3 +13,19 @@ button {
     color:rgb(23, 145, 19);
     font-family: "bai jamjuree", sans-serif;
 }
+
+.passo {
+    display:none;
+}
+
+.passo ativo {
+    display:block;
+}
+
+main {
+    text-align: center;
+}
+
+img{
+    max-width: 90%;
+}
